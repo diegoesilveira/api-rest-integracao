@@ -20,8 +20,7 @@ public class ItinerarioIntegration {
 	@Autowired
 	private RestTemplate restTemplate;
 
-//	@Autowired
-//	private ItinerarioService itinerarioService;
+
 
 	@Bean
 	public void getApiOfItinerario() {
